@@ -7,6 +7,7 @@
 - [Mozilla docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ### Python
+- [Official Docs](https://docs.python.org)
 - [Basics](https://ellibrodepython.com)
 - [Automating boring stuff with python](https://automatetheboringstuff.com/)
 
