@@ -15,6 +15,7 @@
 - [Google ML Foundations](https://developers.google.com/machine-learning/foundational-courses)
 - [Intro to neural networks YT playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - [StatQuest Gentle Intro To Machine Learning](https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
+- [Practical Deep Learning for Coders](https://course.fast.ai/)
 
 ## Math
 - [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
